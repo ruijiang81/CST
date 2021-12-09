@@ -1,6 +1,6 @@
 # CST
 
-## code for paper 
+## code for paper [Enhancing Counterfactual Classification via Self-Training](https://arxiv.org/abs/2112.04461)
 
 ## Toy example is in toy.ipynb 
 
